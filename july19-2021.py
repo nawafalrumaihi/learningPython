@@ -53,7 +53,7 @@
 for a in range(1,(9+1)//2+1):
     for a2 in range ((9+1)//2-a):
         print("",end="")
-print()
+print("Hello World")
 
 
 
